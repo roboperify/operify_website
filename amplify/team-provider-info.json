@@ -10,6 +10,11 @@
       "StackName": "amplify-operifysite-dev-130243",
       "StackId": "arn:aws:cloudformation:us-west-2:896846456526:stack/amplify-operifysite-dev-130243/72ad6490-d89b-11ed-a07a-0a84bed64681",
       "AmplifyAppId": "d1u0ta4k3qx36f"
+    },
+    "categories": {
+      "api": {
+        "operifysite": {}
+      }
     }
   }
 }
